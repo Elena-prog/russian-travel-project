@@ -4,13 +4,13 @@
     margin: 0 auto;
 }
 
-@media screen and (max-width : 900px) {
+@media screen and (max-width: 900px) {
     .container__footer {
         max-width: calc(100% - 24px*2);
     }
 }
 
-@media screen and (max-width : 740px) {
+@media screen and (max-width: 740px) {
     .container__footer {
         max-width: calc(100% - 16px*2);
     }
