@@ -4,13 +4,13 @@
     max-width: calc(100% - 48px*2);
 }
 
-@media screen and (max-width : 900px) {
+@media screen and (max-width: 900px) {
     .content__section {
         max-width: calc(100% - 24px*2);
     }
 }
 
-@media screen and (max-width : 740px) {
+@media screen and (max-width: 740px) {
     .content__section {
         max-width: calc(100% - 16px*2);
     }
