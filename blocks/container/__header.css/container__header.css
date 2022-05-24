@@ -1,0 +1,17 @@
+.container__header {
+    max-width: calc(100% - 48px*2);
+    width: 100%;
+    margin: 0 auto;
+}
+
+@media screen and (max-width : 900px) {
+    .container__header {
+        max-width: calc(100% - 24px*2);
+    }
+}
+
+@media screen and (max-width : 740px) {
+    .container__header {
+        max-width: calc(100% - 16px*2);
+    }
+} 

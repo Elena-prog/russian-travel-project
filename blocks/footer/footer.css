@@ -1,0 +1,17 @@
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: 'Inter';
+    font-style: normal;
+    -webkit-font-smoothing: antialiased; 
+    -moz-osx-font-smoothing: grayscale; 
+}
+
+@media screen and (max-width : 740px) {
+    .footer {
+        flex-direction: column;
+        gap: 48px;
+    }
+} 
+

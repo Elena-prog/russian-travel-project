@@ -1,0 +1,6 @@
+@media screen and (min-width : 1140px) {
+    .content__section_device_desktop {
+        max-width: calc(100% - 148px*2);
+        width: 100%;
+    }
+}

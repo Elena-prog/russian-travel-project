@@ -1,0 +1,20 @@
+.cover {
+    width: 100%;
+    margin-bottom: 92px;
+    font-family: 'Inter';
+    font-style: normal;
+    -webkit-font-smoothing: antialiased; 
+    -moz-osx-font-smoothing: grayscale; 
+}
+
+@media screen and (max-width: 900px) {
+    .cover {
+        margin-bottom: 88px;
+    }
+}
+
+@media screen and (max-width: 740px) {
+    .cover {
+        margin-bottom: 64px;
+    }
+}

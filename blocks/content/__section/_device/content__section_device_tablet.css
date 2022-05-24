@@ -1,0 +1,5 @@
+@media screen and (max-width : 900px) {
+    .content__section_device_tablet {
+        max-width: 100%;
+    }
+}  

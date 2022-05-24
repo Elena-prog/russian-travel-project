@@ -1,0 +1,5 @@
+@media screen and (max-width : 740px) {
+    .content__section_device_mobile {
+        max-width: 100%;
+    }
+}  
